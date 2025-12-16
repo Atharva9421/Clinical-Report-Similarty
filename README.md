@@ -57,7 +57,7 @@ A retrieved document is considered relevant if it shares the same disease label 
 
 **MAIN EXPERIMENT NOTEBOOK (USED FOR FINAL REPORT)**
 Filename:
-  -Text_Retrieval_Final_Project_10000Sample_cases.ipynb
+  -Text_Retrieval_Final_Project_10000_Sample_Cases.ipynb
 
 Description:
   -Uses 10,000 sampled clinical case reports
