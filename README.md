@@ -9,8 +9,10 @@ Rushikesh Ganesh Deshpande**
 **Course: HI 744**
 **Execution Environment: Google Colab**
 
+
 **PROJECT OVERVIEW**
 This project implements a clinical report similarity retrieval system that retrieves the most similar clinical case reports given a free-text clinical query. The system compares lexical retrieval (TF-IDF) and semantic retrieval (ClinicalBERT) approaches and evaluates their performance using standard information retrieval metrics. The task is formulated as a document ranking (information retrieval) problem rather than a text classification task. All experiments were developed and executed in Google Colab due to the size of the dataset and GPU requirements.
+
 
 **IMPORTANT NOTES (PLEASE READ FIRST)**
 NGROK TOKEN REQUIREMENT (FOR UI DEMO)
@@ -26,7 +28,9 @@ Steps:
 Note:
 Ngrok is required only for the Streamlit UI demo. The core retrieval experiments do NOT require ngrok.
 
+
 **TASK DESCRIPTION**
+
 **Input**
   -A free-text clinical case report or clinical note (e.g., a patient case description). 
   -Internally, the system also takes a corpus of clinical case reports sampled from the PMC-Patients dataset.
