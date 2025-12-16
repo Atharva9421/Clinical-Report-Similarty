@@ -111,7 +111,7 @@ Step 4: Provide a query in the text box titled "Enter a clinical note"
 Example query: A 58-year-old male with long-standing alcohol use presents with progressive abdominal distension, jaundice, and right upper quadrant pain. Examination shows ascites, spider angiomas, and hepatomegaly. Laboratory studies reveal elevated AST and ALT, hyperbilirubinemia, and prolonged INR. CT imaging demonstrates a nodular liver with portal hypertension consistent with cirrhosis.
 
 **Important Note: 
-If it appears that google colab is stuck when you click on "Run all", we recommend you to run the cells one by one.**
+If it appears that google colab appears to be unresponsive when you click on "Run all", we recommend you to run the cells one by one.**
 
 
 **EXPECTED OUTPUT**
@@ -126,5 +126,5 @@ If it appears that google colab is stuck when you click on "Run all", we recomme
 **REPRODUCIBILITY NOTES**
   -Random seeds are fixed where applicable
   -No external APIs are required for core functionality
-  -LLM usage (FLAN-T5) is runs locally
+  -LLM usage (FLAN-T5) is run locally
   -Final report results correspond ONLY to the 10,000-sample main notebook
